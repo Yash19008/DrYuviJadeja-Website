@@ -76,3 +76,5 @@ const BlogDetail = () => {
 };
 
 export default BlogDetail;
+
+// TO BE Dynamic
