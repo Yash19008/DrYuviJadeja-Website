@@ -333,3 +333,4 @@ const ServiceDetail = () => {
 };
 
 export default ServiceDetail;
+// TO BE MADE DYNAMIC
